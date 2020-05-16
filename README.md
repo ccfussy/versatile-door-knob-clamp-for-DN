@@ -24,5 +24,5 @@ Main concept
 
 　　非商用利用に限りオープンソース
   
-![動作]https://github.com/ccfussy/versatile-door-knob-clamp-for-DN/blob/master/foot_knob_clamp%20_small.gif
+![動作](https://github.com/ccfussy/versatile-door-knob-clamp-for-DN/blob/master/foot_knob_clamp%20_small.gif)
  
