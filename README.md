@@ -11,7 +11,7 @@ Main concept
 
 　　コロナの後は傷無く取り外せること
 
-2. It's tough, beacause our foot operation is too rough.
+2. Make it durable, because our foot operation is too rough.
 
 　　足で操作できるくらい丈夫に作る
 
