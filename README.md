@@ -23,4 +23,6 @@ Main concept
 4. Open source unless it's commercial
 
 　　非商用利用に限りオープンソース
+  
+![動作]https://github.com/ccfussy/versatile-door-knob-clamp-for-DN/blob/master/foot_knob_clamp%20_small.gif
  
