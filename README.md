@@ -46,9 +46,11 @@ Installing steps
 
 	A. L handle (available)
 		
-		A1. Space gap between / ハンドル間の隙間を測定
+		A1. Space gap between door and handle/ ハンドルと扉の隙間を測定
+		![測定イメージ](image/measuring_neck_length.JPG)
 		
 		A2. Diameter of handle neck / ハンドルネックの外径 
+		![首元](image/measuring_neck.JPG)
    
 	B. Round knob (Now designing)
 	C. Tapered (Now designing)
