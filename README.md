@@ -28,7 +28,7 @@ Main concept
 sample operation / Installing Image
 
 ![動作](https://github.com/ccfussy/versatile-door-knob-clamp-for-DN/blob/master/foot_knob_clamp%20_small.gif)
-![Installing](image/view_install2.jpg)
+![Installing](image/view_instal2.jpg)
 
 
 
@@ -54,3 +54,37 @@ Installing steps
    
 	B. Round knob (Now designing)
 	C. Tapered (Now designing)
+	
+3.Download CAD file for Fusion360 / Fusion360CADファイルのダウンロード
+
+[Download](clamp_circular%20v3.f3d)
+
+4.Modify CAD file in Fusion360
+
+![オープン](image/open_file.jpg)
+
+Open file with Fusion360.
+
+
+
+![修正を選択](image/select_modify.jpg)
+
+Select "MODIFY" from the tool-bar. ツールバーから「修正」を選択
+
+
+![パラメータを開く](image/modify_parameter.jpg)
+
+Select "Change Parameters" command from the Modify command list. 「修正」からパラメータの変更を選択
+
+
+![パラメータ説明](image/parameters.jpg)
+
+Parameters means as bellow. パラメータの意味は以下の通り
+
+1.thickness
+
+2.outer_radius
+
+3.inner_radius
+
+4.guid_gutter_dia
