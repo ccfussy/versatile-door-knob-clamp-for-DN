@@ -28,7 +28,7 @@ Main concept
 sample operation / Installing Image
 
 ![動作](https://github.com/ccfussy/versatile-door-knob-clamp-for-DN/blob/master/foot_knob_clamp%20_small.gif)
-![Installing](image/view_install.jpg)
+![Installing](image/view_install2.jpg)
 
 
 
